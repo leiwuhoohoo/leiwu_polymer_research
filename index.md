@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an associate researcher (associate professor) at XXX, I graduated in RWTH Aachen with a Dr degree
 
 ## Research Interests
 
