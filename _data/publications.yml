@@ -1,41 +1,90 @@
 main:
 
-  - title: "Bottlebrush Polymers with Aggregation-Induced Emission: Confirming Nanoscale Clustering Effect"
-    authors: <strong>Lei Wu</strong>, et al.
+  - title: "Macromolecular Cross-Metathesis Offers a Top-Down Approach Fusing Polyolefin Homopolymers to Multiblock Copolymers"
+    authors: <strong>Lei Wu</strong>, Ulrich Glebe, Kyan T. K. Kwok, Jianwei Sun, Jacky W. Y. Lam, Ben Zhong Tang
+    conference_short: Cell Rep. Phys. Sci.
+    conference: <strong>Cell Reports Physical Science</strong>, 2026, 7, 103135.
+    pdf: https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(26)00041-X
+    image: ./assets/img/teaser_example_2.png
+    notes: Multiblock copolymer design
+
+  - title: "AIE Bottlebrush Polymers: Verification of Internal Crowdedness in Bottlebrush Polymers Using the AIE Effect"
+    authors: <strong>Lei Wu</strong>, Ulrich Glebe, Kyan T. K. Kwok, Jianwei Sun, Jacky W. Y. Lam, Ben Zhong Tang
     conference_short: Angew. Chem.
     conference: <strong>Angewandte Chemie International Edition</strong>, 2025, 64, e202500850.
-    pdf: https://doi.org/10.1002/anie.202500850
+    pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202500850
     image: ./assets/img/teaser_example.png
     notes: AIE bottlebrush polymer
 
-  - title: "Top-Down Polyethylene Hydrogenolysis via Controlled Polymerization and Laser Heating"
-    authors: <strong>Lei Wu</strong>, Richard A. Register, et al.
-    conference_short: Cell Rep. Phys. Sci.
-    conference: <strong>Cell Reports Physical Science</strong>, 2026, 7, 103135.
-    pdf: https://doi.org/10.1016/j.xcrp.2026.103135
-    image: ./assets/img/teaser_example_2.png
-    notes: Sustainable polymer recycling
-
-  - title: "Polymer Brush-Modified Electrodes for Long-Term Stable Solar Fuel Cells"
-    authors: <strong>Lei Wu</strong>, Thomas J. Meyer, et al.
-    conference_short: JACS
-    conference: <strong>Journal of the American Chemical Society</strong>, 2018, 140, 15062.
-    pdf: https://doi.org/10.1021/jacs.8b10022
-
-  - title: "Electropolymerized Thin Films on Semiconductor Electrodes for Solar Water Splitting"
-    authors: <strong>Lei Wu</strong>, Thomas J. Meyer, et al.
+  - title: "Electron-Withdrawing Boron Dipyrromethene Dyes As Visible Light Absorber/Sensitizers on Semiconductor Oxide Surfaces"
+    authors: Deepak Badgurjar, Bing Shan, Animesh Nayak, <strong>Lei Wu</strong>, Raghu Chitta, Thomas J. Meyer
     conference_short: ACS Appl. Mater. Interfaces
-    conference: <strong>ACS Applied Materials & Interfaces</strong>, 2019, 11, 4560.
-    pdf: https://doi.org/10.1021/acsami.8b18882
+    conference: <strong>ACS Applied Materials & Interfaces</strong>, 2020, 12, 7768–7776.
+    pdf: https://doi.org/10.1021/acsami.9b20167
 
-  - title: "Stabilizing Semiconductor Electrodes for Solar Fuel Production via Surface-Initiated Polymerization"
-    authors: <strong>Lei Wu</strong>, Thomas J. Meyer, et al.
+  - title: "Charge Transfer from Upconverting Nanocrystals to Semiconducting Electrodes: Optimizing Thermodynamic Outputs by Electronic Energy Transfer"
+    authors: Bing Shan, Ting-Ting Li, M. Kyle Brennaman, Animesh Nayak, <strong>Lei Wu</strong>, Thomas J. Meyer
+    conference_short: JACS
+    conference: <strong>Journal of the American Chemical Society</strong>, 2019, 141, 463–471.
+    pdf: https://doi.org/10.1021/jacs.8b11110
+
+  - title: "Stabilization of Ruthenium(II) Polypyridyl Chromophores on Mesoporous TiO₂ Electrodes: Surface Reductive Electropolymerization and Silane Chemistry"
+    authors: <strong>Lei Wu</strong>, M. Kyle Brennaman, Animesh Nayak, Michael Eberhart, Alexander J. M. Miller, Thomas J. Meyer
     conference_short: ACS Cent. Sci.
-    conference: <strong>ACS Central Science</strong>, 2019, 5, 506.
-    pdf: https://doi.org/10.1021/acscentsci.8b00915
+    conference: <strong>ACS Central Science</strong>, 2019, 5, 506–514.
+    pdf: https://doi.org/10.1021/acscentsci.8b00914
 
-  - title: "Polymer-Grafted Semiconductor Electrodes for Stable and Efficient Photoelectrochemical Water Oxidation"
-    authors: <strong>Lei Wu</strong>, Thomas J. Meyer, et al.
+  - title: "Stable Molecular Surface Modification of Nanostructured, Mesoporous Metal Oxide Photoanodes by Silane and Click Chemistry"
+    authors: <strong>Lei Wu</strong>, Michael Eberhart, Animesh Nayak, M. Kyle Brennaman, Alexander J. M. Miller, Jing Shao, Thomas J. Meyer
+    conference_short: ACS Appl. Mater. Interfaces
+    conference: <strong>ACS Applied Materials & Interfaces</strong>, 2019, 11, 4560–4567.
+    pdf: https://doi.org/10.1021/acsami.8b17824
+
+  - title: "Crossing the Bridge from Molecular Catalysis to a Heterogenous Electrode in Electrocatalytic Water Oxidation"
+    authors: <strong>Lei Wu</strong>, Animesh Nayak, Jing Shao, Thomas J. Meyer
     conference_short: PNAS
-    conference: <strong>Proceedings of the National Academy of Sciences</strong>, 2019, 116, 11153.
-    pdf: https://doi.org/10.1073/pnas.1902712116
+    conference: <strong>Proceedings of the National Academy of Sciences</strong>, 2019, 116, 11153–11158.
+    pdf: https://www.pnas.org/content/pnas/early/2019/05/14/1902455116.full.pdf
+
+  - title: "A Molecular Silane-Derivatized Ru(II) Catalyst for Photoelectrochemical Water Oxidation"
+    authors: <strong>Lei Wu</strong>, Michael Eberhart, Animesh Nayak, M. Kyle Brennaman, Thomas J. Meyer
+    conference_short: JACS
+    conference: <strong>Journal of the American Chemical Society</strong>, 2018, 140, 15062–15069.
+    pdf: https://doi.org/10.1021/jacs.8b10132
+
+  - title: "Fabrication of Thermoresponsive Plasmonic Core–Satellite Nanoassemblies with a Tunable Stoichiometry via Surface-Initiated RAFT Polymerization from Silica Nanoparticles"
+    authors: <strong>Lei Wu</strong>, Ulrich Glebe, Alexander Böker
+    conference_short: Adv. Mater. Interfaces
+    conference: <strong>Advanced Materials Interfaces</strong>, 2017, 4, 1700092.
+    pdf: http://dx.doi.org/10.1002/admi.201700092
+
+  - title: "Synthesis of Polystyrene and Poly(4-vinylpyridine) Mixed Grafted Silica Nanoparticles via a Combination of ATRP and Cuᴵ-Catalyzed Azide-Alkyne Click Chemistry"
+    authors: <strong>Lei Wu</strong>, Ulrich Glebe, Alexander Böker
+    conference_short: Macromol. Rapid Commun.
+    conference: <strong>Macromolecular Rapid Communications</strong>, 2017, 38, 1600475.
+    pdf: http://dx.doi.org/10.1002/marc.201600475
+
+  - title: "Synthesis of Hybrid Silica Nanoparticles Densely Grafted with Thermo and pH Dual-Responsive Brushes via Surface-Initiated ATRP"
+    authors: <strong>Lei Wu</strong>, Ulrich Glebe, Alexander Böker
+    conference_short: Macromolecules
+    conference: <strong>Macromolecules</strong>, 2016, 49, 9586–9596.
+    pdf: http://dx.doi.org/10.1021/acs.macromol.6b01792
+
+  - title: "Cu₂O Clusters Grown on TiO₂ Nanoplates as Efficient Photocatalysts for Hydrogen Generation"
+    authors: Kun Zhao, Shenlong Zhao, Jian Qi, Huajie Yin, Chao Gao, Abdul Muqsit Khattak, Yijin Wu, Azhar Iqbal, <strong>Lei Wu</strong>, Yan Gao, Ranbo Yu, Zhiyong Tang
+    conference_short: Inorg. Chem. Front.
+    conference: <strong>Inorganic Chemistry Frontiers</strong>, 2016, 3, 488–493.
+    pdf: http://dx.doi.org/10.1039/C5QI00284B
+
+  - title: "Surface-Initiated Controlled Radical Polymerizations from Silica Nanoparticles, Gold Nanocrystals, and Bionanoparticles"
+    authors: <strong>Lei Wu</strong>, Ulrich Glebe, Alexander Böker
+    conference_short: Polym. Chem.
+    conference: <strong>Polymer Chemistry</strong>, 2015, 6, 5143–5184.
+    pdf: http://dx.doi.org/10.1039/C5PY00525F
+    notes: Review
+
+  - title: "One-Pot Synthesis of Liquid Hg/Solid β-HgS Metal–Semiconductor Heterostructures with Unique Electrical Properties"
+    authors: <strong>Lei Wu</strong>, Baogang Quan, Yaling Liu, Rui Song, Zhiyong Tang
+    conference_short: ACS Nano
+    conference: <strong>ACS Nano</strong>, 2011, 5, 2224–2230.
+    pdf: http://dx.doi.org/10.1021/nn103473s
