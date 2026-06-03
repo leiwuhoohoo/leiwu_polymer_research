@@ -5,7 +5,7 @@ main:
     conference_short: Cell Rep. Phys. Sci.
     conference: <strong>Cell Reports Physical Science</strong>, 2026, 7, 103135.
     pdf: https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(26)00041-X
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/Multiblock_copolymer_design.jpg
     notes: Multiblock copolymer design
 
   - title: "AIE Bottlebrush Polymers: Verification of Internal Crowdedness in Bottlebrush Polymers Using the AIE Effect"
@@ -13,7 +13,7 @@ main:
     conference_short: Angew. Chem.
     conference: <strong>Angewandte Chemie International Edition</strong>, 2025, 64, e202500850.
     pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202500850
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/AIE_bottlebrush_polymer.png
     notes: AIE bottlebrush polymer
 
   - title: "Electron-Withdrawing Boron Dipyrromethene Dyes As Visible Light Absorber/Sensitizers on Semiconductor Oxide Surfaces"
