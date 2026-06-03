@@ -1,0 +1,41 @@
+main:
+
+  - title: "Bottlebrush Polymers with Aggregation-Induced Emission: Confirming Nanoscale Clustering Effect"
+    authors: <strong>Lei Wu</strong>, et al.
+    conference_short: Angew. Chem.
+    conference: <strong>Angewandte Chemie International Edition</strong>, 2025, 64, e202500850.
+    pdf: https://doi.org/10.1002/anie.202500850
+    image: ./assets/img/teaser_example.png
+    notes: AIE bottlebrush polymer
+
+  - title: "Top-Down Polyethylene Hydrogenolysis via Controlled Polymerization and Laser Heating"
+    authors: <strong>Lei Wu</strong>, Richard A. Register, et al.
+    conference_short: Cell Rep. Phys. Sci.
+    conference: <strong>Cell Reports Physical Science</strong>, 2026, 7, 103135.
+    pdf: https://doi.org/10.1016/j.xcrp.2026.103135
+    image: ./assets/img/teaser_example_2.png
+    notes: Sustainable polymer recycling
+
+  - title: "Polymer Brush-Modified Electrodes for Long-Term Stable Solar Fuel Cells"
+    authors: <strong>Lei Wu</strong>, Thomas J. Meyer, et al.
+    conference_short: JACS
+    conference: <strong>Journal of the American Chemical Society</strong>, 2018, 140, 15062.
+    pdf: https://doi.org/10.1021/jacs.8b10022
+
+  - title: "Electropolymerized Thin Films on Semiconductor Electrodes for Solar Water Splitting"
+    authors: <strong>Lei Wu</strong>, Thomas J. Meyer, et al.
+    conference_short: ACS Appl. Mater. Interfaces
+    conference: <strong>ACS Applied Materials & Interfaces</strong>, 2019, 11, 4560.
+    pdf: https://doi.org/10.1021/acsami.8b18882
+
+  - title: "Stabilizing Semiconductor Electrodes for Solar Fuel Production via Surface-Initiated Polymerization"
+    authors: <strong>Lei Wu</strong>, Thomas J. Meyer, et al.
+    conference_short: ACS Cent. Sci.
+    conference: <strong>ACS Central Science</strong>, 2019, 5, 506.
+    pdf: https://doi.org/10.1021/acscentsci.8b00915
+
+  - title: "Polymer-Grafted Semiconductor Electrodes for Stable and Efficient Photoelectrochemical Water Oxidation"
+    authors: <strong>Lei Wu</strong>, Thomas J. Meyer, et al.
+    conference_short: PNAS
+    conference: <strong>Proceedings of the National Academy of Sciences</strong>, 2019, 116, 11153.
+    pdf: https://doi.org/10.1073/pnas.1902712116
