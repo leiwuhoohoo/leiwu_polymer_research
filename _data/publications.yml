@@ -36,7 +36,7 @@ main:
     conference_short: ACS Cent. Sci.
     conference: <strong>ACS Central Science</strong>, 2019, 5, 506–514.
     pdf: https://doi.org/10.1021/acscentsci.8b00914
-    images: ./assets/img/images_medium_oc-2018-00914v_0009.gif
+    image: ./assets/img/images_medium_oc-2018-00914v_0009.gif
     notes: Ruthenium(II) Polypyridyl Chromophores and Electropolymerization
 
   - title: "Stable Molecular Surface Modification of Nanostructured, Mesoporous Metal Oxide Photoanodes by Silane and Click Chemistry"
