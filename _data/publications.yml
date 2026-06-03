@@ -6,7 +6,7 @@ main:
     conference: <strong>Cell Reports Physical Science</strong>, 2026, 7, 103135.
     pdf: https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(26)00041-X
     image: ./assets/img/Multiblock_copolymer_design.jpg
-    notes: Multiblock copolymer design
+    notes: Multiblock Copolymer Design
 
   - title: "AIE Bottlebrush Polymers: Verification of Internal Crowdedness in Bottlebrush Polymers Using the AIE Effect"
     authors: <strong>Lei Wu</strong>, Ulrich Glebe, Kyan T. K. Kwok, Jianwei Sun, Jacky W. Y. Lam, Ben Zhong Tang
@@ -14,61 +14,78 @@ main:
     conference: <strong>Angewandte Chemie International Edition</strong>, 2025, 64, e202500850.
     pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202500850
     image: ./assets/img/AIE_bottlebrush_polymer.png
-    notes: AIE bottlebrush polymer
+    notes: AIE Bottlebrush Polymer
 
   - title: "Electron-Withdrawing Boron Dipyrromethene Dyes As Visible Light Absorber/Sensitizers on Semiconductor Oxide Surfaces"
     authors: Deepak Badgurjar, Bing Shan, Animesh Nayak, <strong>Lei Wu</strong>, Raghu Chitta, Thomas J. Meyer
     conference_short: ACS Appl. Mater. Interfaces
     conference: <strong>ACS Applied Materials & Interfaces</strong>, 2020, 12, 7768–7776.
     pdf: https://doi.org/10.1021/acsami.9b20167
+    image: ./assets/img/images_medium_am9b20167_0009.gif
+    notes: Electron-Withdrawing Boron Dipyrromethene Dyes
 
   - title: "Charge Transfer from Upconverting Nanocrystals to Semiconducting Electrodes: Optimizing Thermodynamic Outputs by Electronic Energy Transfer"
     authors: Bing Shan, Ting-Ting Li, M. Kyle Brennaman, Animesh Nayak, <strong>Lei Wu</strong>, Thomas J. Meyer
     conference_short: JACS
     conference: <strong>Journal of the American Chemical Society</strong>, 2019, 141, 463–471.
     pdf: https://doi.org/10.1021/jacs.8b11110
+    image: ./assets/img/images_medium_ja-2018-11110q_0005.gif
 
   - title: "Stabilization of Ruthenium(II) Polypyridyl Chromophores on Mesoporous TiO₂ Electrodes: Surface Reductive Electropolymerization and Silane Chemistry"
     authors: <strong>Lei Wu</strong>, M. Kyle Brennaman, Animesh Nayak, Michael Eberhart, Alexander J. M. Miller, Thomas J. Meyer
     conference_short: ACS Cent. Sci.
     conference: <strong>ACS Central Science</strong>, 2019, 5, 506–514.
     pdf: https://doi.org/10.1021/acscentsci.8b00914
+    images: ./assets/img/images_medium_oc-2018-00914v_0009.gif
+    notes: Ruthenium(II) Polypyridyl Chromophores and Electropolymerization
 
   - title: "Stable Molecular Surface Modification of Nanostructured, Mesoporous Metal Oxide Photoanodes by Silane and Click Chemistry"
     authors: <strong>Lei Wu</strong>, Michael Eberhart, Animesh Nayak, M. Kyle Brennaman, Alexander J. M. Miller, Jing Shao, Thomas J. Meyer
     conference_short: ACS Appl. Mater. Interfaces
     conference: <strong>ACS Applied Materials & Interfaces</strong>, 2019, 11, 4560–4567.
     pdf: https://doi.org/10.1021/acsami.8b17824
+    image: ./assets/img/images_medium_am-2018-17824q_0009.gif
+    notes: Surface Modification of Metal Oxide Photoanodes and Click Chemistry
 
   - title: "Crossing the Bridge from Molecular Catalysis to a Heterogenous Electrode in Electrocatalytic Water Oxidation"
     authors: <strong>Lei Wu</strong>, Animesh Nayak, Jing Shao, Thomas J. Meyer
     conference_short: PNAS
     conference: <strong>Proceedings of the National Academy of Sciences</strong>, 2019, 116, 11153–11158.
     pdf: https://www.pnas.org/content/pnas/early/2019/05/14/1902455116.full.pdf
+    image: ./assets/img/pnas.1902455116fig01.jpg
+    notes: Ruthenium(II) Polypyridyl Molecular Catalysis and Electropolymerization
 
   - title: "A Molecular Silane-Derivatized Ru(II) Catalyst for Photoelectrochemical Water Oxidation"
     authors: <strong>Lei Wu</strong>, Michael Eberhart, Animesh Nayak, M. Kyle Brennaman, Thomas J. Meyer
     conference_short: JACS
     conference: <strong>Journal of the American Chemical Society</strong>, 2018, 140, 15062–15069.
     pdf: https://doi.org/10.1021/jacs.8b10132
+    image: ./assets/img/images_medium_ja-2018-10132x_0012.gif
+    notes: Molecular Silane-Derivatized Ru(II) Catalyst
 
   - title: "Fabrication of Thermoresponsive Plasmonic Core–Satellite Nanoassemblies with a Tunable Stoichiometry via Surface-Initiated RAFT Polymerization from Silica Nanoparticles"
     authors: <strong>Lei Wu</strong>, Ulrich Glebe, Alexander Böker
     conference_short: Adv. Mater. Interfaces
     conference: <strong>Advanced Materials Interfaces</strong>, 2017, 4, 1700092.
     pdf: http://dx.doi.org/10.1002/admi.201700092
+    image: ./assets/img/2026_155056.jpeg
+    notes: Thermoresponsive Plasmonic Core–Satellite Nanoassemblies
 
   - title: "Synthesis of Polystyrene and Poly(4-vinylpyridine) Mixed Grafted Silica Nanoparticles via a Combination of ATRP and Cuᴵ-Catalyzed Azide-Alkyne Click Chemistry"
     authors: <strong>Lei Wu</strong>, Ulrich Glebe, Alexander Böker
     conference_short: Macromol. Rapid Commun.
     conference: <strong>Macromolecular Rapid Communications</strong>, 2017, 38, 1600475.
     pdf: http://dx.doi.org/10.1002/marc.201600475
+    image: ./assets/img/marc201600475-abs-0001-m.png
+    notes: PS and P4VP Mixed Brushes
 
   - title: "Synthesis of Hybrid Silica Nanoparticles Densely Grafted with Thermo and pH Dual-Responsive Brushes via Surface-Initiated ATRP"
     authors: <strong>Lei Wu</strong>, Ulrich Glebe, Alexander Böker
     conference_short: Macromolecules
     conference: <strong>Macromolecules</strong>, 2016, 49, 9586–9596.
     pdf: http://dx.doi.org/10.1021/acs.macromol.6b01792
+    image: ./assets/img/images_medium_ma-2016-01792b_0010.gif
+    notes: Thermo and pH Dual-Responsive Brushes
 
   - title: "Cu₂O Clusters Grown on TiO₂ Nanoplates as Efficient Photocatalysts for Hydrogen Generation"
     authors: Kun Zhao, Shenlong Zhao, Jian Qi, Huajie Yin, Chao Gao, Abdul Muqsit Khattak, Yijin Wu, Azhar Iqbal, <strong>Lei Wu</strong>, Yan Gao, Ranbo Yu, Zhiyong Tang
@@ -81,10 +98,13 @@ main:
     conference_short: Polym. Chem.
     conference: <strong>Polymer Chemistry</strong>, 2015, 6, 5143–5184.
     pdf: http://dx.doi.org/10.1039/C5PY00525F
-    notes: Review
+    image: ./assets/img/2026_154829.jpeg
+    notes: Review, Surface-Initiated Controlled Radical Polymerizations
 
   - title: "One-Pot Synthesis of Liquid Hg/Solid β-HgS Metal–Semiconductor Heterostructures with Unique Electrical Properties"
     authors: <strong>Lei Wu</strong>, Baogang Quan, Yaling Liu, Rui Song, Zhiyong Tang
     conference_short: ACS Nano
     conference: <strong>ACS Nano</strong>, 2011, 5, 2224–2230.
     pdf: http://dx.doi.org/10.1021/nn103473s
+    image: ./assets/img/images_medium_nn-2010-03473s_0008.gif
+    notes: Liquid Hg/Solid β-HgS Metal–Semiconductor Heterostructures
