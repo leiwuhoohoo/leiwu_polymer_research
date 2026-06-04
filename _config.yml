@@ -2,7 +2,6 @@
 title: Wu Lei (吴磊)
 position: Associate Researcher / Associate Professor
 affiliation: Sichuan University
-email: wlmathematica@foxmail.com
 
 # Search Engine Optimization (SEO)
 keywords: Wu Lei, polymer, ROMP, ATRP, AIE, aggregation-induced emission, bottlebrush polymer, AI4Science, photoelectrochemistry, solar fuel, sustainable material, Sichuan University
@@ -11,8 +10,7 @@ canonical: https://leiwuhoohoo.github.io/leiwu_polymer_research/
 
 # Links
 github_link: https://github.com/leiwuhoohoo
-linkedin:
-twitter:
+email_link: mailto:wlmathematica@foxmail.com
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
