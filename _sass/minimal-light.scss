@@ -296,8 +296,7 @@ a:hover small {
 }
 
 .wrapper {
-  display: flex;
-  max-width: 1150px;
+  width: 1150px;
   margin: 0 auto;
 }
 
@@ -358,14 +357,13 @@ img {
 
 header {
   width: 470px;
-  flex-shrink: 0;
-  position: sticky;
-  top: 0;
+  float: left;
+  position: fixed;
   -webkit-font-smoothing: subpixel-antialiased;
   padding-top: 4.0em;
   text-align: center;
   overflow-y: auto;
-  max-height: 100vh;
+  max-height: 95vh;
   box-sizing: border-box;
   padding-bottom: 1.0em;
 }
@@ -438,8 +436,8 @@ header ul a strong {
 }
 
 section {
-  flex: 1;
-  max-width: 650px;
+  width: 650px;
+  float: right;
   padding-top: 4.0em;
   padding-bottom: 50px;
 }
@@ -457,7 +455,9 @@ hr {
 
 footer {
   width: 470px;
-  flex-shrink: 0;
+  float: left;
+  position: fixed;
+  bottom: 30px;
   -webkit-font-smoothing: subpixel-antialiased;
   text-align: center;
 }
@@ -468,24 +468,21 @@ footer {
   display: flex;
   align-items: center;}
 
-  .wrapper {
-    flex-direction: column;
+  div.wrapper {
+    width: auto;
     margin: 0;
   }
 
   header, section, footer {
     float: none;
     position: static;
-    width: 100%;
-    max-width: 100%;
-    flex-shrink: 1;
+    width: auto;
   }
 
   header {
-    padding-right: 0;
+    padding-right: 320px;
     max-height: none;
     overflow-y: visible;
-    position: static;
   }
 
   section {
