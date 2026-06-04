@@ -18,7 +18,7 @@ main:
 
   - title: "Electron-Withdrawing Boron Dipyrromethene Dyes As Visible Light Absorber/Sensitizers on Semiconductor Oxide Surfaces"
     authors: Deepak Badgurjar, Bing Shan, Animesh Nayak, <strong>Lei Wu</strong>, Raghu Chitta, Thomas J. Meyer
-    conference_short: ACS Appl. Mater. Interfaces
+    conference_short: ACS Appl. Mater. Interf.
     conference: <strong>ACS Applied Materials & Interfaces</strong>, 2020, 12, 7768–7776.
     pdf: https://doi.org/10.1021/acsami.9b20167
     image: ./assets/img/images_medium_am9b20167_0009.gif
@@ -41,7 +41,7 @@ main:
 
   - title: "Stable Molecular Surface Modification of Nanostructured, Mesoporous Metal Oxide Photoanodes by Silane and Click Chemistry"
     authors: <strong>Lei Wu</strong>, Michael Eberhart, Animesh Nayak, M. Kyle Brennaman, Alexander J. M. Miller, Jing Shao, Thomas J. Meyer
-    conference_short: ACS Appl. Mater. Interfaces
+    conference_short: ACS Appl. Mater. Interf.
     conference: <strong>ACS Applied Materials & Interfaces</strong>, 2019, 11, 4560–4567.
     pdf: https://doi.org/10.1021/acsami.8b17824
     image: ./assets/img/images_medium_am-2018-17824q_0009.gif
@@ -73,7 +73,7 @@ main:
 
   - title: "Synthesis of Polystyrene and Poly(4-vinylpyridine) Mixed Grafted Silica Nanoparticles via a Combination of ATRP and Cuᴵ-Catalyzed Azide-Alkyne Click Chemistry"
     authors: <strong>Lei Wu</strong>, Ulrich Glebe, Alexander Böker
-    conference_short: Macromol. Rapid Commun.
+    conference_short: Macromol. Rapid Comm.
     conference: <strong>Macromolecular Rapid Communications</strong>, 2017, 38, 1600475.
     pdf: http://dx.doi.org/10.1002/marc.201600475
     image: ./assets/img/marc201600475-abs-0001-m.png
