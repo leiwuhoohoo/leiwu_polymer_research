@@ -361,7 +361,11 @@ header {
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
   padding-top:4.0em;
-  text-align:center
+  text-align:center;
+  overflow-y: auto;
+  max-height: 95vh;
+  box-sizing: border-box;
+  padding-bottom: 1.0em;
 }
 
 
