@@ -1,6 +1,6 @@
-<div style="margin-top: 20px; word-wrap: break-word; overflow-wrap: break-word;">
+<div style="margin-top: 20px; word-wrap: break-word; overflow-wrap: break-word; max-width: 100%;">
   <h3 style="margin: 0 0 5px; font-size: 0.95rem;">News</h3>
-  <ul style="margin: 0; padding-left: 16px; font-size: 0.82rem; line-height: 1.5;">
+  <ul style="margin: 0; padding-left: 16px; font-size: 0.82rem; line-height: 1.5; width: auto; height: auto; max-width: 100%; background: none; list-style: disc;">
     <li><strong>[Feb. 2026]</strong> Paper on multiblock copolymer design using cross-metathesis published in <em>Cell Reports Physical Science</em>.</li>
     <li><strong>[Jan. 2026]</strong> Joined Sichuan University as an Associate Researcher / Associate Professor.</li>
     <li><strong>[Dec. 2025]</strong> Elected to the Ministry of Education Overseas Talent Recruitment Program.</li>
